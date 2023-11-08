@@ -14,5 +14,6 @@ public class TemperatureConvertor {
     private double temFahrenheit;
     private double temRankine;
     private String lugar;
+    private String atrib1;
     
 }
