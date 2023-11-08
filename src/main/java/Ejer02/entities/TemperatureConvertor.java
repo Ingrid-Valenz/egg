@@ -13,5 +13,6 @@ public class TemperatureConvertor {
     private double temKelvin;
     private double temFahrenheit;
     private double temRankine;
+    private String lugar;
     
 }
